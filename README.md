@@ -1,6 +1,6 @@
 # About Me
 
- 👋 Hi, I’m Purnendu Shukla a.k.a @devloperhs14
+ 👋 Hi, I’m Purnendu Shukla a.k.a @devloper_hs
 - 👀 I’m interested in **Data Science**, **Machine Learning** , **Deep Learning**, **Web Developement**, **Generative AI Product Developement**
 - 🌱 I’m currently learning **Generative AI & Product Developement**
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**
